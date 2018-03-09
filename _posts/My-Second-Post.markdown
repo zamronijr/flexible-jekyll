@@ -13,3 +13,5 @@ published: true
 ---
 
 ## Welcome To My Second Post
+
+Pada Kesempatan kali ini saya akan membahas mengenai regresi logistik
