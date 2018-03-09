@@ -32,4 +32,16 @@ Terdapat beberapa jenis algoritme pencarian tetangga terdekat, diantaranya:
 - Locally-sensitive hashing (LSH)
 Algoritme k-NN ini memiliki konsistensi yang kuat. Ketika jumlah data mendekati tak hingga, algoritme ini menjamin error rate yang tidak lebih dari dua kali Bayes error rate (error rate minimum untuk distribusi data tertentu).
 
+{
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Agenda\n",
+    "\n",
+    "- What is the **K-nearest neighbors** classification model?\n",
+    "- What are the four steps for **model training and prediction** in scikit-learn?\n",
+    "- How can I apply this pattern to **other machine learning models**?"
+   ]
+  }
+
 >Sumber : Wikipedia
