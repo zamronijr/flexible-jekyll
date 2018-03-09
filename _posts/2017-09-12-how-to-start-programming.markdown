@@ -32,12 +32,4 @@ Terdapat beberapa jenis algoritme pencarian tetangga terdekat, diantaranya:
 - Locally-sensitive hashing (LSH)
 Algoritme k-NN ini memiliki konsistensi yang kuat. Ketika jumlah data mendekati tak hingga, algoritme ini menjamin error rate yang tidak lebih dari dua kali Bayes error rate (error rate minimum untuk distribusi data tertentu).
 
-{% highlight python %}
-def zam:
-  z = 3
-  e = 4
-  l = z+e
-  print (l)
-{% endhighlight %}
-
 >Sumber : Wikipedia
