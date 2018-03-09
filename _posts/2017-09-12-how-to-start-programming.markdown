@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'K Nearest Neighbor '
-date: '2017-09-12 00:00:00 +0300'
+date: '2018-03-9 00:00:00 +0300'
 description: >-
   You’ll find this post in your `_posts` directory. Go ahead and edit it and
   re-build the site to see your changes.
@@ -12,8 +12,7 @@ tags:
 published: true
 ---
 Welcome to my first post!
-Pada kesempatan kali ini saya akan membahas sedikit mengenai k-nearest neighbor atau disingkat **KNN**
-Apa itu **KNN?**
+Pada kesempatan kali ini saya akan membahas sedikit mengenai k-nearest neighbor atau disingkat **KNN** Apa itu **KNN?**
 **KNN** adalah sebuah metode untuk melakukan klasifikasi terhadap objek berdasarkan data pembelajaran yang jaraknya paling dekat dengan objek tersebut.
 
 Data pembelajaran diproyeksikan ke ruang berdimensi banyak, dimana masing-masing dimensi merepresentasikan fitur dari data. Ruang ini dibagi menjadi bagian-bagian berdasarkan klasifikasi data pembelajaran. Sebuah titik pada ruang ini ditandai kelas c jika kelas c merupakan klasifikasi yang paling banyak ditemui pada k buah tetangga terdekat titk tersebut. Dekat atau jauhnya tetangga biasanya dihitung berdasarkan jarak Euclidean.
